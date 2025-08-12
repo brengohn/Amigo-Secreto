@@ -17,7 +17,7 @@ La aplicación permite ingresar nombres de amigos, mostrarlos en pantalla y sort
 
 ## Vista previa
 
-![Captura de pantalla del proyecto](http://127.0.0.1:5500/challenge-amigo-secreto_esp-main/index.html)
+![Pantalla del proyecto](http://127.0.0.1:5500/challenge-amigo-secreto_esp-main/index.html)
 
 ---
 
