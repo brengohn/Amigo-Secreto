@@ -12,11 +12,6 @@ La aplicación permite ingresar nombres de amigos, listarlos y sortear aleatoria
 - **Visualización dinámica** de la lista ingresada.
 - **Sorteo aleatorio** de un amigo secreto.
 - Interfaz simple y fácil de usar.
----
-
-## Demo en línea
-
-🔗 [Haz clic aquí para ver el proyecto funcionando]([https://tu-usuario.github.io/challenge-amigo-secreto_esp-main/](https://brengohn.github.io/Amigo-Secreto/)
 
 ---
 
