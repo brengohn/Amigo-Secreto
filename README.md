@@ -12,13 +12,6 @@ La aplicación permite ingresar nombres de amigos, listarlos y sortear aleatoria
 - **Visualización dinámica** de la lista ingresada.
 - **Sorteo aleatorio** de un amigo secreto.
 - Interfaz simple y fácil de usar.
-
----
-
-##  Vista previa
-
-![Vista previa del proyecto](assets/captura-proyecto.png)
-
 ---
 
 ## Demo en línea
@@ -37,4 +30,13 @@ La aplicación permite ingresar nombres de amigos, listarlos y sortear aleatoria
 ---
 
 ## Estructura del proyecto
+
+challenge-amigo-secreto/
+-├── index.html       # Estructura principal
+-├── style.css        # Estilos CSS
+-├── app.js           # Lógica en JavaScript
+-├── README.md        # Descripción del proyecto
+-└── assets/          # Imágenes y recursos
+
+---
 
