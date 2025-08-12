@@ -31,12 +31,12 @@ La aplicación permite ingresar nombres de amigos, listarlos y sortear aleatoria
 
 ## Estructura del proyecto
 
-challenge-amigo-secreto/
--├── index.html       # Estructura principal
--├── style.css        # Estilos CSS
--├── app.js           # Lógica en JavaScript
--├── README.md        # Descripción del proyecto
--└── assets/          # Imágenes y recursos
+**challenge-amigo-secreto/**
+**├── index.html       # Estructura principal**
+**├── style.css        # Estilos CSS**
+**├── app.js           # Lógica en JavaScript**
+**├── README.md        # Descripción del proyecto**
+**└── assets/          # Imágenes y recursos**
 
 ---
 
