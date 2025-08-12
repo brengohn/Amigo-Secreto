@@ -23,7 +23,7 @@ La aplicación permite ingresar nombres de amigos, listarlos y sortear aleatoria
 
 ## Demo en línea
 
-🔗 [Haz clic aquí para ver el proyecto funcionando](https://tu-usuario.github.io/challenge-amigo-secreto_esp-main/)
+🔗 [Haz clic aquí para ver el proyecto funcionando]([https://tu-usuario.github.io/challenge-amigo-secreto_esp-main/](https://brengohn.github.io/Amigo-Secreto/)
 
 ---
 
